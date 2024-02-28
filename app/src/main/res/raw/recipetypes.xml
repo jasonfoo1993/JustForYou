@@ -1,0 +1,28 @@
+<recipes>
+    <recipeType>
+        <type>Main Course</type>
+        <recipes>
+            <recipe>Spaghetti Bolognese</recipe>
+            <recipe>Grilled Chicken Salad</recipe>
+            <recipe>Vegetarian Lasagna</recipe>
+        </recipes>
+    </recipeType>
+
+    <recipeType>
+        <type>Appetizer</type>
+        <recipes>
+            <recipe>Bruschetta</recipe>
+            <recipe>Stuffed Mushrooms</recipe>
+            <recipe>Caprese Salad</recipe>
+        </recipes>
+    </recipeType>
+
+    <recipeType>
+        <type>Dessert</type>
+        <recipes>
+            <recipe>Chocolate Cake</recipe>
+            <recipe>Apple Pie</recipe>
+            <recipe>Tiramisu</recipe>
+        </recipes>
+    </recipeType>
+</recipes>
